@@ -15,6 +15,11 @@ with open(html_file, "w", encoding='utf-8') as f:
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+p {{text-align: center;}}
+h1 {{text-align: center;}}
+</style>
+<title>米客编年史</title>
 <link rel="stylesheet" href="center.css">
 </head>
 <body>

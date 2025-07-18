@@ -26,7 +26,6 @@ p {{text-align: center;}}
 h1 {{text-align: center;}}
 </style>
 <title>米客编年史</title>
-<link rel="stylesheet" href="center.css">
 </head>
 <body>
 {html}
